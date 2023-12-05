@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What temperature does water boil at?",
+        "optionA": "50 degrees Celcius",
+        "optionB": "25 degrees Celcius",
+        "optionC": "100 degrees Celcius",
+        "optionD": "150 degrees Celcius",
+        "answer": "100 degrees Celcius"
+    },
+    {
+        "question": "Who wrote Julius Caesar, Macbeth and Hamlet?",
+        "optionA": "Wole Soyinka",
+        "optionB": "William Shakespeare",
+        "optionC": "Ngozi Chimamanda Adichie",
+        "optionD": "Dan Brown",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What did the crocodile swallow in Peter Pan?",
+        "optionA": "A Book",
+        "optionB": "A Computer",
+        "optionC": "A pair of shoes",
+        "optionD": "Alarm Clock",
+        "answer": "Alarm Clock"
+    },
+    {
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    },
+    {
+        "question": "Who lived at 221B, Baker Street, London?",
+        "optionA": "Tony Stark",
+        "optionB": "Morgan Freeman",
+        "optionC": "Sherlock Holmes",
+        "optionD": "Samuel L. Jackson",
+        "answer": "Sherlock Holmes"
+    }
+]
