@@ -1,42 +1,35 @@
 [
     {
         "question": "What temperature does water boil at?",
-        "optionA": "50 degrees Celcius",
-        "optionB": "25 degrees Celcius",
-        "optionC": "100 degrees Celcius",
-        "optionD": "150 degrees Celcius",
-        "answer": "100 degrees Celcius"
+        "option1": "100 degrees Celcius",
+        "option2": "25 degrees Celcius",
+        "option3": "50 degrees Celcius",
+        "option4": "150 degrees Celcius",
+        "answer": 1
     },
     {
         "question": "Who wrote Julius Caesar, Macbeth and Hamlet?",
-        "optionA": "Wole Soyinka",
-        "optionB": "William Shakespeare",
-        "optionC": "Ngozi Chimamanda Adichie",
-        "optionD": "Dan Brown",
-        "answer": "William Shakespeare"
+        "option1": "Wole Soyinka",
+        "option2": "William Shakespeare",
+        "option3": "Ngozi Chimamanda Adichie",
+        "option4": "Dan Brown",
+        "answer": 2
     },
     {
         "question": "What did the crocodile swallow in Peter Pan?",
-        "optionA": "A Book",
-        "optionB": "A Computer",
-        "optionC": "A pair of shoes",
-        "optionD": "Alarm Clock",
-        "answer": "Alarm Clock"
+        "option1": "A Book",
+        "option2": "A Computer",
+        "option3": "Alarm Clock",
+        "option4": "A pair of shoes",
+        "answer": 3
     },
-    {
-        "question": "Which is the only mammal that can’t jump?",
-        "optionA": "Dog",
-        "optionB": "Elephant",
-        "optionC": "Goat",
-        "optionD": "Lion",
-        "answer": "Elephant"
-    },
+    
     {
         "question": "Who lived at 221B, Baker Street, London?",
-        "optionA": "Tony Stark",
-        "optionB": "Morgan Freeman",
-        "optionC": "Sherlock Holmes",
-        "optionD": "Samuel L. Jackson",
-        "answer": "Sherlock Holmes"
+        "option1": "Tony Stark",
+        "option2": "Morgan Freeman",
+        "option3": "Samuel L. Jackson",
+        "option4": "Sherlock Holmes",
+        "answer": 4
     }
 ]
